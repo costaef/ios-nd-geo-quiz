@@ -105,7 +105,7 @@ extension QuizViewController {
         languageChoices.append(tempCountry)
         
         // Portuguese Language
-        tempCountry = Country(name: "Portuguese", bcp47Code: "pt-BR", textToRead: "A aprendizagem é um longa busca que dura toda a vida.", flagImageName: "brazilFlag")
+        tempCountry = Country(name: "Portuguese", bcp47Code: "pt-BR", textToRead: "A aprendizagem é uma longa busca que dura toda a vida.", flagImageName: "brazilFlag")
         languageChoices.append(tempCountry)
         
     }
